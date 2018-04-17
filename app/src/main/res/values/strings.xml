@@ -1,8 +1,16 @@
 <resources>
-    <string name="app_name">Lesson2.1</string>
-    <string name="button_main">Send</string>
-    <string name="activity2_name">Second Activity</string>
-    <string name="editText_main">Enter Your Message Here</string>
-    <string name="button_second">Reply</string>
-    <string name="editText_second">Enter Your Reply Here</string>
+    <string name="app_name">Phone Number Spinner</string>
+    <string name="show">Show</string>
+    <string name="enter">Enter a message</string>
+    <string name="enter_phone">Enter a phone number</string>
+    <string name="hint_phone_number">Enter a phone number</string>
+    <string name="phonenumber_label">Phone Number:</string>
+    <string name="nothing_entered">Nothing entered.</string>
+    <string name="nothing_selected">onNothingSelected:</string>
+    <string-array name="labels_array">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
 </resources>

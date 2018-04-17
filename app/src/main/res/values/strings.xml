@@ -1,8 +1,5 @@
 <resources>
-    <string name="app_name">Lesson2.1</string>
-    <string name="button_main">Send</string>
-    <string name="activity2_name">Second Activity</string>
-    <string name="editText_main">Enter Your Message Here</string>
-    <string name="button_second">Reply</string>
-    <string name="editText_second">Enter Your Reply Here</string>
+    <string name="app_name">Recycler View</string>
+    <string name="show">Show</string>
+    <string name="enter">Enter a message</string>
 </resources>
